@@ -73,7 +73,7 @@ author = "Themefisher"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 # banner
@@ -114,9 +114,9 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
+#yelp = "#"
 facebook = "#"
 twitter = "#"
 instagram = "#"
 email = "#"
-linkedin = "#"
+#linkedin = "#"
