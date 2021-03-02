@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Twenty Twenty Hugo"
+baseURL = "https://www.185libertystreet.com"
+title = "185 Liberty Street, Newburgh, New York"
 theme = "twentytwenty"
 languageName = "En"
 languageCode = "en-us"
@@ -68,7 +68,7 @@ weight = 1
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is meta description"
+description = "Historic apartment rentals at 185 Liberty Street"
 author = "Themefisher"
 
 # cookies
@@ -78,7 +78,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Historic apartment rentals at 185 Liberty Street"
 image = "images/2020-landscape-1-2.png"
 
 # blog
@@ -108,7 +108,7 @@ image = "images/2020-square-1.png"
 [params.footer]
 title = "About This Site"
 content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
+address = "185 Liberty Street <br> Newburgh, NY 12550"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 
