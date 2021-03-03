@@ -78,7 +78,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "Historic apartment rentals at 185 Liberty Street"
+heading = "Renovated apartments available in Fall 2021"
 image = "images/2020-landscape-1-2.png"
 
 # blog
